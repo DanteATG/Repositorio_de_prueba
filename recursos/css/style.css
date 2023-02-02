@@ -1,0 +1,50 @@
+.Titulo{
+    display: flex;
+    color:aliceblue;
+    background-color: black;
+    justify-content: center;
+}
+
+.navegacion{
+    justify-content: space-between;
+    display: flex;
+    color:black;
+    background-color: beige;
+    
+    
+}
+
+.imagenes {
+    background-image: url("https://i.blogs.es/350379/277766356_3192019441069029_1197112217368904523_n/1366_2000.jpeg");
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+.imagenes .Hombre{
+    
+    
+    height: 250px;
+    width: 300px;
+}
+
+.imagenes .Mujer{
+   
+    height: 250px;
+    width: 300px;
+}
+
+
+.descripcion{
+    opacity: 80%;
+    display:flex;
+    background-color: #5e2129;
+    color: white;
+    justify-content: space-between;
+}
+
+.imagenes .Negro{
+   
+    height: 250px;
+    width: 300px;
+}
+
